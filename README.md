@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm sebastian Ruiz</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-# 💫 About Me:
-🔭 I’m currently learning new Frontend Technologies<br>👯 All of my projects are available at https://dev-sebas.netlify.app/<br>💬 Ask me about react , angular and more frontend technologies<br>⚡ How to reach me sebasruiz909@gmail.com
+- 🌱 I’m currently learning **new Frontend Technologies**
 
+- 👨‍💻 All of my projects are available at [https://dev-sebas.netlify.app/](https://dev-sebas.netlify.app/)
+
+- 💬 Ask me about **react , angular and more frontend technologies**
+
+- 📫 How to reach me **sebasruiz909@gmail.com**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sebas_ruiz923) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-ruiz-dev) 
