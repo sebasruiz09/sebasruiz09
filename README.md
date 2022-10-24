@@ -3,15 +3,17 @@
 <h1 align="center">Hi 👋, I'm sebastian Ruiz</h1>
 <h3 align="center">A passionate software developer from Colombia</h3>
 
-- 🌱 I’m currently learning **new Frontend Technologies**
+<div  align="center">
+  <p>- 🌱 I’m currently learning <strong>new Frontend Technologies<strong</p>
 
-- 👨‍💻 All of my projects are available at [https://dev-sebas.netlify.app/](https://dev-sebas.netlify.app/)
+  <p>- 👨‍💻 All of my projects are available at [https://dev-sebas.netlify.app/](https://dev-sebas.netlify.app/)
 
-- 💬 Ask me about **react , angular and more frontend technologies**
+  <p>- 💬 Ask me about **react , angular and more frontend technologies**
 
-- 📫 How to reach me **sebasruiz909@gmail.com**
+  <p>- 📫 How to reach me **sebasruiz909@gmail.com**
 
--  ⌨️ I’m currently work at **INLAZE** in Risaralda - COL
+  <p>-  ⌨️ I’m currently work at **INLAZE** in Risaralda - COL
+</div>
 
 ## 📨 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sebas_ruiz923)
