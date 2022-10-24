@@ -1,19 +1,18 @@
 [![](https://visitcount.itsvg.in/api?id=sebasruiz09&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h1 align="center">Hi 👋, I'm sebastian Ruiz</h1>
-<h3 align="center">A passionate software developer from Colombia</h3>
+<h1 align="center">Hi 👋, I'm sebastian Ruiz
+<h3 align="center">A passionate software developer from Colombia
 
-<div  align="center">
-  <p>- 🌱 I’m currently learning <strong>new Frontend Technologies<strong</p>
+  - 🌱 I’m currently learning <strong>new Frontend Technologies<strong
 
-  <p>- 👨‍💻 All of my projects are available at [https://dev-sebas.netlify.app/](https://dev-sebas.netlify.app/)
+  - 👨‍💻 All of my projects are available at [https://dev-sebas.netlify.app/](https://dev-sebas.netlify.app/)
 
-  <p>- 💬 Ask me about **react , angular and more frontend technologies**
+  - 💬 Ask me about **react , angular and more frontend technologies**
 
-  <p>- 📫 How to reach me **sebasruiz909@gmail.com**
+  - 📫 How to reach me **sebasruiz909@gmail.com**
 
-  <p>-  ⌨️ I’m currently work at **INLAZE** in Risaralda - COL
-</div>
+  -  ⌨️ I’m currently work at **INLAZE** in Risaralda - COL
+
 
 ## 📨 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sebas_ruiz923)
