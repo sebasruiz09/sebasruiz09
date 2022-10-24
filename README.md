@@ -14,6 +14,7 @@
 
 -  ⌨️ I’m currently work at **INLAZE** in Risaralda - COL
 
+<div align="center">
 
 ## 📨 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sebas_ruiz923)
@@ -67,6 +68,7 @@
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![vs-code](https://img.shields.io/badge/VS_Code-198CCD?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Neovim](https://img.shields.io/static/v1?style=for-the-badge&message=Neovim&color=57A143&logo=Neovim&logoColor=FFFFFF&label=)
+</div>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sebasruiz09&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
