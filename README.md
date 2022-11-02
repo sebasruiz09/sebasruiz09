@@ -4,7 +4,7 @@
 <h3 align="center">A passionate software developer from Colombia</h3>
 
 
-- 🌱 I’m currently learning <strong>new Frontend Technologies
+- 🌱 I’m currently learning <strong>new technologies and framworks
 
 - 👨‍💻 All of my projects are available at [https://dev-sebas.netlify.app/](https://dev-sebas.netlify.app/)
 
