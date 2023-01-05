@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm sebastian Ruiz</h1>
 <h3 align="center">A passionate software developer from Colombia</h3>
 
-
 - 🌱 I’m currently learning <strong>new technologies and framworks
 
 - 👨‍💻 All of my projects are available at [https://dev-sebas.netlify.app/](https://dev-sebas.netlify.app/)
@@ -69,7 +68,10 @@
 ![Neovim](https://img.shields.io/static/v1?style=for-the-badge&message=Neovim&color=57A143&logo=Neovim&logoColor=FFFFFF&label=)
 
 
-## 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebasruiz09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Stats:
+
+[![Example](https://github-stats-alpha.vercel.app/api?username=sebasruiz09 "Example")](https://github-stats-alpha.vercel.app/api?username=sebasruiz09 "Example")
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebasruiz09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
