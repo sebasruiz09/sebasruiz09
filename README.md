@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dev-sebas.netlify.app/](https://dev-sebas.netlify.app/)
 
-- 💬 Ask me about **javascript, typrscript or some of its frameworks**
+- 💬 Ask me about **javascript, typescript or some of its frameworks**
 
 - 📫 How to reach me **sebasruiz909@gmail.com**
 
