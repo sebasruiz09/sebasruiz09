@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dev-sebas.netlify.app/](https://dev-sebas.netlify.app/)
 
-- 💬 Ask me about **react , angular and more frontend technologies**
+- 💬 Ask me about **javascript, typrscript or some of its frameworks**
 
 - 📫 How to reach me **sebasruiz909@gmail.com**
 
