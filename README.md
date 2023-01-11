@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm sebastian Ruiz</h1>
 <h3 align="center">A passionate software developer from Colombia</h3>
 
-- 🌱 I’m currently learning <strong>new technologies and framworks
+- 🌱 I’m currently learning <strong>new technologies and frameworks
 
 - 👨‍💻 All of my projects are available at [https://dev-sebas.netlify.app/](https://dev-sebas.netlify.app/)
 
