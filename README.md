@@ -68,10 +68,7 @@
 ![Neovim](https://img.shields.io/static/v1?style=for-the-badge&message=Neovim&color=57A143&logo=Neovim&logoColor=FFFFFF&label=)
 
 
-### 📊 GitHub Stats:
-
-[![Example](https://github-stats-alpha.vercel.app/api?username=sebasruiz09 "Example")](https://github-stats-alpha.vercel.app/api?username=sebasruiz09 "Example")
-  
+### 📊 GitHub Stats:  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebasruiz09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
