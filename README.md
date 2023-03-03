@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning <strong>new technologies and frameworks
 
-- 👨‍💻 All of my projects are available at [https://dev-sebas.netlify.app/](https://dev-sebas.netlify.app/)
+- 👨‍💻 All of my projects are available at https://sebastech.me
 
 - 💬 Ask me about **javascript, typescript or some of its frameworks**
 
@@ -68,6 +68,6 @@
 ![Neovim](https://img.shields.io/static/v1?style=for-the-badge&message=Neovim&color=57A143&logo=Neovim&logoColor=FFFFFF&label=)
 
 
-### 📊 GitHub Stats:  
+### 📊 GitHub Stats:
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebasruiz09&layout=compact&theme=tokyonight)]
 </div>
