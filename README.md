@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **sebasruiz909@gmail.com**
 
--  ⌨️ I’m currently work at **INLAZE** in Risaralda - COL
-
 <div align="center">
 
 ## 📨 Socials:
